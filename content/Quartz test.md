@@ -1,0 +1,1 @@
+Testing quartz without property
